@@ -1,7 +1,8 @@
 ### Olá! Eu sou a Iara 👩‍💻
 
 
-📚 Atualmente estou estudando programação.
+📚 Atualmente estou estudando programação com foco em Front-end.
+🎓 Sup. Tec. Análise e Desenvolvimento de Sistemas - UNIP 2/4
 
 
 <div align="center">
