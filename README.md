@@ -2,7 +2,12 @@
 
 
 📚 Atualmente estou estudando programação com foco em Front-end. <br> 
-🎓 Sup. Tec. Análise e Desenvolvimento de Sistemas - UNIP 2/4
+🎓 Sup. Tec. Análise e Desenvolvimento de Sistemas - UNIP 3/4 <br>
+🥰 Amo ler! <br>
+🙃 Speak English and little (very little) Italian
+🤯 Fazendo transição de carreira: da educação para a tecnologia
+😘 For now, that's all!
+
 
 
 <div align="center">
