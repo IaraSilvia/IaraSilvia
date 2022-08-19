@@ -22,7 +22,7 @@
   <img align="center" alt="Iara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   <img align="right" alt="Iara-pic" height="150" style="border-radius:50px;"   
-   src="https://user-images.githubusercontent.com/66339183/144762439-d037e4ef-9a8d-4083-9027-7440a6947fdf.png">
+   src="https://i.pinimg.com/originals/1e/20/42/1e204227bfff34d09fdaec1c1da552af.jpg">
      
 </div>
   
