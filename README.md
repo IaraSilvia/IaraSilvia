@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Iara 👩‍💻
 
 
-📚 Atualmente estou estudando programação com foco em Front-end. <br> 
+📚 Atualmente sou programadora back end. <br> 
 🎓 Sup. Tec. Análise e Desenvolvimento de Sistemas - UNIP 3/4 <br>
 🥰 Amo ler! <br>
 🙃 Speak English and little (very little) Italian <br>
