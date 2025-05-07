@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Iara 👩‍💻
 
 
-📚 Atualmente sou programadora back end. <br> 
+📚 Atualmente sou programadora back end tendo iniciado no front e passado pelo Quality Assurace. <br> 
 🎓 Bacharel em Tecnologia da Informação - UNIVESP 3/4 <br>
 🥰 Amo ler! <br>
 🙃 Speak English and little (very little) Italian <br>
