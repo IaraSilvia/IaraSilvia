@@ -1,4 +1,4 @@
-### Olá! Eu sou a Iara 👩‍💻
+### Oii! Eu sou a Iara 👩‍💻
 
 
 📚 Atualmente sou programadora back end tendo iniciado no front e passado pelo Quality Assurace. <br> 
