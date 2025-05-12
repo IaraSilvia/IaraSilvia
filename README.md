@@ -20,6 +20,8 @@
   <img align="center" alt="Iara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Iara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Iara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Rafa-Python" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
   
   <img align="right" alt="Iara-pic" height="150" style="border-radius:50px;"   
    src="https://i.pinimg.com/originals/1e/20/42/1e204227bfff34d09fdaec1c1da552af.jpg">
