@@ -22,18 +22,16 @@
   <img align="center" alt="Iara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Rafa-Python" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <i class="devicon-github-original colored"></i>
+          
 
   
- <img align="right" alt="Iara-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/1e/20/42/1e204227bfff34d09fdaec1c1da552af.jpg">
+
      
 </div>
   
 
 
   
-  <div> 
-   <a href="https://www.linkedin.com/in/iara-silvia-domiciano/" target="_blank">
-     <img src="file:///C:/Users/iara.crivelaro/Downloads/ChatGPT%20Image%2013%20de%20mai.%20de%202025,%2016_51_13%20(1).png"></a> 
-
-  </div>
+ 
   
