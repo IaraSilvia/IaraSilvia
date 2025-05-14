@@ -33,13 +33,18 @@ Se quiser trocar uma ideia sobre projetos, tech ou até livros, é só chamar! �
   <img align="center" alt="Iara-Vscode" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Iara-insomnia" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />
   <img align="center" alt="Iara-canva" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
-  <img align="center" alt="Iara-amazon" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-                             
-          
-                 
- 
+  <img align="center" alt="Iara-amazon" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />                       
+
+   # Iara's Game
+
+
+![Snake game](https://github.com/IaraSilvia/IaraSilvia/blob/output/github-contribution-grid-snake.svg)
+
+
      
 </div>
+
+
   
 
 
