@@ -22,7 +22,7 @@ Se quiser trocar uma ideia sobre projetos, tech ou até livros, é só chamar! �
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IaraSilvia&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
-  <div align="center" style="display: inline_block"><br>
+  <div align="center" style="display: inline"><br>
   <img align="center" alt="Iara-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Iara-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Iara-CSS" height="60" width="70"" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -33,7 +33,7 @@ Se quiser trocar uma ideia sobre projetos, tech ou até livros, é só chamar! �
   <img align="center" alt="Iara-Vscode" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Iara-insomnia" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />
   <img align="center" alt="Iara-canva" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
-  <img align="center" alt="Iara-amazon" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img align="center" alt="Iara-amazon" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
                              
           
                  
