@@ -1,4 +1,7 @@
-<pre> ```python # class Iara:
+## 🔁 Transição, café e muito código: prazer, Iara!
+
+```python
+class Iara:
     def __init__(self):
         self.name = "Iara"
         self.role = "Desenvolvedora Back-End"
@@ -25,9 +28,7 @@
 # Executando a apresentação
 if __name__ == "__main__":
     iara = Iara()
-    iara.say_hi() ``` </pre>
-
-
+    iara.say_hi() 
 
 
 
