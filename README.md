@@ -32,7 +32,8 @@
 
   
   <div> 
-   <a href="https://www.linkedin.com/in/iara-silvia-domiciano/" target="_blank"><img src="C:\Users\iara.crivelaro\Downloads\ChatGPT Image 13 de mai. de 2025, 16_51_13 (1).png"></a> 
+   <a href="https://www.linkedin.com/in/iara-silvia-domiciano/" target="_blank">
+     <img src="file:///C:/Users/iara.crivelaro/Downloads/ChatGPT%20Image%2013%20de%20mai.%20de%202025,%2016_51_13%20(1).png"></a> 
 
   </div>
   
