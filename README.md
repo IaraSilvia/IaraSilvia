@@ -24,8 +24,7 @@
     <img align="center" alt="Rafa-Python" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
   
-  <img align="right" alt="Iara-pic" height="150" style="border-radius:50px;"   
-   src="https://i.pinimg.com/originals/1e/20/42/1e204227bfff34d09fdaec1c1da552af.jpg">
+ <img align="right" alt="Iara-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/1e/20/42/1e204227bfff34d09fdaec1c1da552af.jpg">
      
 </div>
   
@@ -33,7 +32,7 @@
 
   
   <div> 
-   <a href="https://www.linkedin.com/in/iara-silvia-domiciano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://www.linkedin.com/in/iara-silvia-domiciano/" target="_blank"><img src="C:\Users\iara.crivelaro\Downloads\ChatGPT Image 13 de mai. de 2025, 16_51_13 (1).png"></a> 
 
   </div>
   
