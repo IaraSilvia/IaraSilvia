@@ -1,34 +1,14 @@
 ## 🔁 Transição, café e muito código: prazer, Iara!
 
-```python
-class Iara:
-    def __init__(self):
-        self.name = "Iara"
-        self.role = "Desenvolvedora Back-End"
-        self.background = ["Front-End", "QA", "Educação"]
-        self.education = {
-            "curso": "Bacharelado em Tecnologia da Informação",
-            "instituicao": "UNIVESP",
-            "status": "Cursando (3º de 4 anos)"
-        }
-        self.hobbies = ["Ler livros", "Aprender coisas novas", "Codar com café ☕"]
-        self.languages = {
-            "pt": "Nativo",
-            "en": "Fluente",
-            "it": "Bem básico 😅"
-        }
-        self.values = ["Curiosidade", "Dedicação", "Aprendizado contínuo"]
+💻 Hoje trabalho como **desenvolvedora back-end**, mas minha jornada na tech começou pelo **front-end** e passou por **QA** — gosto de entender o todo!  
+🎓 Estudante de **Bacharelado em Tecnologia da Informação** na UNIVESP (3º ano).  
+🔄 **Transição de carreira?** Sim! Vim da área da educação e me encontrei na tecnologia.  
+📖 **Leitora voraz** nas horas vagas — livros me inspiram tanto quanto código.  
+🌍 Falo **inglês** e arranho um pouquinho de **italiano** (bem pouquinho mesmo 😅).
 
-    def say_hi(self):
-        print(f"Oi! Eu sou a {self.name} 👩‍💻")
-        print(f"Atualmente trabalho como {self.role}, com experiências em {', '.join(self.background)}.")
-        print("Fiz transição de carreira da educação para a tecnologia e nunca mais olhei pra trás!")
-        print("Vamos conversar sobre tech, projetos... ou livros? 🚀📚")
+Curiosa, dedicada e sempre em busca de aprender mais.  
+Se quiser trocar uma ideia sobre projetos, tech ou até livros, é só chamar! 🚀
 
-# Executando a apresentação
-if __name__ == "__main__":
-    iara = Iara()
-    iara.say_hi() 
 
 
 
