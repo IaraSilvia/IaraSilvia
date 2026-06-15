@@ -20,6 +20,7 @@ Se quiser trocar uma ideia sobre projetos, tech ou até livros, é só chamar! �
   <a href="https://github.com/IaraSilvia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IaraSilvia&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IaraSilvia&layout=compact&langs_count=7&theme=midnight-purple"/>
+    </a>
 </div>
 
   <div align="center" style="display: inline"><br>
@@ -38,8 +39,7 @@ Se quiser trocar uma ideia sobre projetos, tech ou até livros, é só chamar! �
    # Iara's Game 🐍
 
 
-![Snake game](https://github.com/IaraSilvia/IaraSilvia/blob/output/github-contribution-grid-snake.svg)
-
+<img src="https://raw.githubusercontent.com/IaraSilvia/IaraSilvia/output/github-contribution-grid-snake.svg" alt="Snake animation">
 
      
 </div>
