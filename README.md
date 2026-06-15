@@ -39,7 +39,7 @@ Se quiser trocar uma ideia sobre projetos, tech ou até livros, é só chamar! �
    # Iara's Game 🐍
 
 
-<img src="https://raw.githubusercontent.com/IaraSilvia/IaraSilvia/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+![Snake game](https://raw.githubusercontent.com/IaraSilvia/IaraSilvia/output/github-contribution-grid-snake.svg)
 
      
 </div>
