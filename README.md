@@ -15,7 +15,16 @@
 Curiosa, dedicada e sempre em busca de aprender mais.
 Se quiser trocar uma ideia sobre projetos, tech, QA ou até livros, é só chamar! 🚀
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Iara%20Domiciano-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iaradomiciano/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/iaradomiciano/">
+    <img src="https://img.shields.io/badge/LinkedIn-Iara%20Domiciano-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+<p align="left">
+  📧 iarasilviadomi@gmail.com
+</p>
+
 
 ---
 
